@@ -1,56 +1,56 @@
-<!--
-**williewu-projects/williewu-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I’m Willie Wu
 
-I’m a **Software & Systems Engineer** with 13+ years of experience in **semiconductor equipment developer, semiconductor automation, fab manufacturing systems, and systems integration**. I’m currently pivoting into modern software engineering roles, focusing on **AI agents, full-stack projects, and cloud-based systems**.
+I’m a **Software & Systems Engineer** with 13+ years of experience in **semiconductor automation, equipment development, and systems integration**.  
+Currently, I’m pivoting into modern **software engineering** roles with a focus on **AI agents, full-stack applications, and cloud-based systems**.
 
 ---
 
 ## 🚀 About Me
-- 🔧 Background: Ph.D. in Materials Science & Engineering + 13 years at Intel driving **factory automation, equipment integration, and data systems**.
-- 🔭 I’m currently working on developing my skills as a modern software engineer.
-- 💻 Technical Focus: Python, SQL, AI/ML, backend systems, cloud, and multi-agent architectures.
-- 🏗 Current Projects:
-  - **Pet Fountain Detection** 🐾 (YOLOv5 + PostgreSQL + Streamlit)
-  - **Petkit Device Logger** 📊 (Python + Synology NAS + Docker)
-  - **GoKit Guardian** 🛠 (AI disaster-preparedness agent system)
-- 🎯 Goal: Transition into **AI agent engineering / software systems engineering** roles.
+- 🎓 Ph.D. in Materials Science & Engineering  
+- 🏭 13 years at Intel driving **factory automation, manufacturing systems, and data pipelines**  
+- 🔭 Currently sharpening my skills in **modern backend + AI development**  
+- 🛠 Building projects at the intersection of **AI, IoT, and systems integration**  
 
 ---
 
+## 🛠 Tech Stack
 
-## 🛠 Tech Stack 
-- **Languages**: Python, C#, SQL
-- **Frameworks**: FastAPI, Streamlit, YOLOv5/8, PyTorch
-- **Data**: PostgreSQL, Pandas, Docker
-- **Infra/DevOps**: GitHub Actions, Docker Compose, Synology NAS
-- **Other**: AI Agents SDK, OpenAI APIs, n8n
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![C#](https://img.shields.io/badge/C%23-Developer-green?logo=c-sharp)
+![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=postgresql)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-teal?logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboards-red?logo=streamlit)
+![YOLOv5/8](https://img.shields.io/badge/YOLOv5/8-Computer%20Vision-yellow)
+![PyTorch](https://img.shields.io/badge/PyTorch-ML-orange?logo=pytorch)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![PostgreSQL](https://img.shields.io/badge/Postgres-14-informational?logo=postgresql)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-black?logo=githubactions)
 
+---
 
 ## 📌 Featured Projects
-Here are some projects I’m especially proud of (see pinned repos for details):
-- 🐾 **Pet Fountain Detection** – AI system for detecting cat drinking sessions  
-- 📊 **Petkit Logger & Dashboard** – IoT data logger with PostgreSQL + Synology NAS  
-- 🛠 **Disaster Preparedness Assistant** – Multi-agent AI system for disaster preparedness  
+
+- 🐾 **Pet Fountain Detection** – AI system for detecting cat drinking sessions (YOLOv5 + PostgreSQL + Streamlit)  
+- 📊 **Petkit Logger & Dashboard** – IoT data logger with PostgreSQL + Synology NAS + Docker  
+- 🛠 **GoKit Guardian** – Multi-agent AI system for disaster preparedness  
+
+👉 *See pinned repositories for details*  
 
 ---
 
-## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/willie-wu-17a41521)  
+## 📊 GitHub Stats  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williewu-projects&show_icons=true&theme=default&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williewu-projects&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+## 📫 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Willie%20Wu-blue?logo=linkedin)](https://www.linkedin.com/in/willie-wu-17a41521)  
+📧 **Email**: wwu626@gmail.com  
 
 ---
 
