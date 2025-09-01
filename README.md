@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Willie Wu
+# 👋 About me
 
 I’m a **Software & Systems Engineer** with 13+ years of experience in **semiconductor automation, equipment development, and systems integration**.  
 Currently, I’m pivoting into modern **software engineering** roles with a focus on **AI agents, full-stack applications, and cloud-based systems**.
