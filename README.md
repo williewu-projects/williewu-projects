@@ -31,12 +31,14 @@ I’m a **Software & Systems Engineer** with 13+ years of experience in **semico
 
 ---
 
+
 ## 🛠 Tech Stack 
 - **Languages**: Python, C#, SQL
 - **Frameworks**: FastAPI, Streamlit, YOLOv5/8, PyTorch
 - **Data**: PostgreSQL, Pandas, Docker
 - **Infra/DevOps**: GitHub Actions, Docker Compose, Synology NAS
 - **Other**: AI Agents SDK, OpenAI APIs, n8n
+
 
 ## 📌 Featured Projects
 Here are some projects I’m especially proud of (see pinned repos for details):
@@ -52,4 +54,4 @@ Here are some projects I’m especially proud of (see pinned repos for details):
 
 ---
 
-⭐️ From [Willie Wu](https://github.com/pralinevillari)
+⭐️ From [Willie Wu](https://github.com/williewu-projects)
